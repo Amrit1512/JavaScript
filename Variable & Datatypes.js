@@ -1,7 +1,7 @@
-/* The first day of this challenge is know more about "Variable & Datatypes"
+/* The first day of this challenge is know more about "Variables & Datatypes"
 -------Activity:1(Variable declarations)---------------*/
 
-var number = 22; //task-1
+var number = 2; //task-1
 console.log(number);
 
 let string = "amrit raj" // task-2
